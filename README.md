@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Rayhan
 
 🎓 Mechanical Engineering Student at MIST  
-💻 Passionate Web Developer | React & MERN Stack  
-📍 Based in Dhaka, Bangladesh
+💻 Passionate Web Developer | React & MERN Stack 
 
 ---
 
