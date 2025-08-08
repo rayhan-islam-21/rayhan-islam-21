@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/XXXX/banner.png) <!-- Replace with your banner image link -->
+![Banner]([https://i.ibb.co/XXXX/banner.png](https://i.ibb.co/7JzKp42S/purple-blue-Modern-Technology-Linktree-Background-1280-x-320-px.png)) <!-- Replace with your banner image link -->
 
 # Hi, I'm Rayhan Islam 👋  
 ### MERN Stack Developer
