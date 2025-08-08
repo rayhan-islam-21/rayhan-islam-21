@@ -60,5 +60,5 @@ I'm a Mechanical Engineering student at MIST & a passionate web developer who lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-islam-21" alt="GitHub Streak" width="450" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=rayhan-islam-21&theme=dark)](https://git.io/streak-stats)
 </p>
