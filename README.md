@@ -52,14 +52,10 @@ I'm a Mechanical Engineering student at MIST & a passionate web developer who lo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-islam)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23075E54.svg?&logo=whatsapp&logoColor=white)](https://wa.me/8801989726823)
 
-
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayhan-islam-21&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" width="300" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=rayhan-islam-21&theme=dark"/>
 </p>
