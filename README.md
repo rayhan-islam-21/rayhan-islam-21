@@ -19,7 +19,6 @@ I'm a Mechanical Engineering student at MIST & a passionate web developer who lo
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=reactquery" alt="React Query" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
@@ -50,7 +49,9 @@ I'm a Mechanical Engineering student at MIST & a passionate web developer who lo
 
 ## 🌐 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white)](https://github.com/rayhan-islam-21)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-islam)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23075E54.svg?&logo=whatsapp&logoColor=white)](https://wa.me/8801989726823)
+
 
 ---
 
@@ -60,5 +61,5 @@ I'm a Mechanical Engineering student at MIST & a passionate web developer who lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </p>
 <p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=rayhan-islam-21&theme=dark)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=rayhan-islam-21&theme=dark"/>
 </p>
