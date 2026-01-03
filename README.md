@@ -57,10 +57,11 @@ I'm a Mechanical Engineering student at **MIST** and a passionate **web develope
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-islam-21&show_icons=true&theme=radical&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical&hide_border=false" width="38%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-islam-21&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
