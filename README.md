@@ -60,8 +60,7 @@ I'm a Mechanical Engineering student at **MIST** and a passionate **web develope
 <div align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayhan-islam-21&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayhan-islam-21&layout=compact&theme=radical" alt="Top Languages" /></div>
 
 ---
 
